@@ -1,2 +1,2 @@
 # platformer
-Indie game made in python
+Indie platformer/rpg/rouguelike game made in python
